@@ -15,7 +15,7 @@ Slides:
 - Semantics of Kickstarter Projects Descriptions_ Initial Results.pdf
 
 These are the initial results. Next steps will be:
--- Use all 130K + observations
--- Try clustering scheme with less clusters (since majority of the clusters are not aligned with 15 project categories on Kickstarter)
--- Build supervised classification model to see if new clusters or specific signature tokens can predict success of campaign
+- Use all 130K + observations
+- Try clustering scheme with less clusters (since majority of the clusters are not aligned with 15 project categories on Kickstarter)
+- Build supervised classification model to see if new clusters or specific signature tokens can predict success of campaign
 
