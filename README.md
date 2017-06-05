@@ -11,10 +11,8 @@ Data file: https://s3.amazonaws.com/weruns/forfun/Kickstarter/Kickstarter_2017-0
 Below is the flow chart of analysis:
 
 ![](flowchart.png)
-
 Slides:
-- 'Semantics of Kickstarter Projects Descriptions_ Initial Results V2.pdf' is the one updated and aligned with the code
-(when reran, results varied somewhat)
+- Semantics of Kickstarter Projects Descriptions_ Initial Results.pdf
 
 These are the initial results. Next steps will be:
 -- Use all 130K + observations
